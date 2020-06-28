@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": [
+        "tslint:recommended",
+        "tslint-react-hooks"
+    ],
+    "jsRules": {},
+    "rules": {
+        "react-hooks-nesting": "error",
+        "no-console": false,
+        "trailing-comma": false,
+        "object-literal-sort-keys": false
+    },
+    "rulesDirectory": []
+}
